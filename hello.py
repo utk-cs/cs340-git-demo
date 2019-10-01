@@ -5,6 +5,7 @@ def helloworld():
     pass
 
 def add_numbers(x, y):
+    x = x + y
     pass
 
 if __name__ == '__main__':
