@@ -1,11 +1,11 @@
 #!/usr/bin/env python3
 
 def helloworld():
-    pass
+    #this 
 
 def add_numbers(x, y):
-    pass
+    #does
 
 if __name__ == '__main__':
     # do something!
-    pass
+    # no it doesn't
