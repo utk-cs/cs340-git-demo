@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 
 def helloworld():
+    print("Hello world!")
     pass
 
 def add_numbers(x, y):
@@ -8,4 +9,5 @@ def add_numbers(x, y):
 
 if __name__ == '__main__':
     # do something!
+    helloworld()
     pass
