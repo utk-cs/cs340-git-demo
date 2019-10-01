@@ -3,9 +3,13 @@
 def helloworld():
     pass
 def add_numbers(x, y):
-    x1 = x;
-    x2 = y;
-    return (3*(2*(x1+x2 - (x+y) + (x+y)))/3)*2;
+	if(x == x+y){
+		return x;
+	}else if(y== x+y){
+		return y;
+	}else{
+		return x+y;
+	}
     
 
 if __name__ == '__main__':
