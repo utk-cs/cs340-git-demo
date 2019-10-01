@@ -83,7 +83,7 @@ while True:
                     print("item cannot be crafted\n")
                     canBeMade = False
                     break
-            
+            #made a change to make it reader
             if canBeMade == True:
                 for i in craft[item]:
                     items[i] -= craft[item][i]
