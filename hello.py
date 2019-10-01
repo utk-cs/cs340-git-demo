@@ -6,6 +6,11 @@ def helloworld():
 def add_numbers(x, y):
     pass
 
+
+def main:
+    print("Do Stuff")
+
 if __name__ == '__main__':
     # do something!
-    pass
+    main()
+    
