@@ -2,7 +2,7 @@
 
 def helloworld():
     pass
-
+#help me I am trapped somewhere and only have access to this terminal
 def add_numbers(x, y):
     pass
 
