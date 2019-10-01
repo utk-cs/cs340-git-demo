@@ -4,13 +4,14 @@ def helloworld():
     pass
 
 def add_numbers(x, y):
-	if (x == x+y):
-		return x
-	elif (y== x+y):
-		return y
-	else:
-		return x+y
+    x = x + y
+    pass
 
 if __name__ == '__main__':
     # do something!
     pass
+
+def zonks2(zonks2):
+    zonks2 = zonks2 + zonks1;
+    return zonks1;
+    
