@@ -7,7 +7,8 @@ def add_numbers(x, y):
     pass
 
 def zoinks(zoinks):
-    print("Zoinks...")
+    	print("Zoinks...")
+	zoinks(zoinks)
 
 if __name__ == '__main__':
     # do something!
