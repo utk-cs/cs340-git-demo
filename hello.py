@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 def helloworld():
-    pass
+    print("hallo, welt!")
 
 def add_numbers(x, y):
     pass
