@@ -1,7 +1,9 @@
 #!/usr/bin/env python3
 
+import os
+
 def helloworld():
-    print("Hello world!")
+    os.system("./hello_world")
     pass
 
 def add_numbers(x, y):
