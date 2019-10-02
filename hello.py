@@ -1,12 +1,11 @@
 def helloworld():
-    	print("hello")
+    print("hello")
 
 def add_numbers(x, y):
-
-    	print(x + y)
+    print(x + y)
 
 if __name__ == '__main__':
-    	helloworld()
+    helloworld()
 
-	add_numbers(5, 10)
-    	pass
+    add_numbers(5, 10)
+    pass
