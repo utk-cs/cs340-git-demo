@@ -3,6 +3,9 @@ def helloworld():
     print("hello")
 
 def add_numbers(x, y):
+    x = x + y
+    y = 1 + x
+    z = 1 + 1
     print(x + y)
 
 def zoinks(zoinks):
