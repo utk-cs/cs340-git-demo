@@ -1,3 +1,7 @@
+
+#!/usr/bin/env python3
+
+# aaaaaaaaaaaaaabbbbbbbbbbbbbbbbbbbbbbbbbb
 def helloworld():
     print("hi")
 #help me I am trapped somewhere and only have access to this terminal
@@ -19,11 +23,11 @@ def zoinks(zoinks):
 
 if __name__ == '__main__':
     # do something!
+    #or mabye not
     # no it doesn't
     print(":)")
     helloworld()
 
     add_numbers(5, 10)
-    pass
 
 #this is a commit
