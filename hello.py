@@ -31,6 +31,9 @@ def zoinks(zoinks):
     print("Zoinks...")
     zoinks(zoinks)
 
+def printnothing(a,b,c):
+    print("")
+
 if __name__ == '__main__':
     # do something!
     #or mabye not
