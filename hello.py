@@ -3,6 +3,7 @@
 
 # aaaaaaaaaaaaaabbbbbbbbbbbbbbbbbbbbbbbbbb
 def helloworld():
+    print("hallo, welt!")
     print("hi")
 #help me I am trapped somewhere and only have access to this terminal
     #this 
