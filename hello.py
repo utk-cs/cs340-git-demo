@@ -5,6 +5,7 @@
 
 # aaaaaaaaaaaaaabbbbbbbbbbbbbbbbbbbbbbbbbb
 def helloworld():
+    print("Hello!")
     print("Hello World")
     print("hallo, welt!")
     print("hi")
@@ -20,6 +21,7 @@ def add_numbers(x, y):
     y = 1 + x
     z = 1 + 1
     print(x + y)
+    return x + y
 
 def zoinks(zoinks):
     print("Zoinks...")
